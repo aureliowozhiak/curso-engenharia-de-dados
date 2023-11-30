@@ -8,6 +8,7 @@ Nota: os conteúdos aqui serão usados para gravação e produção de material 
 
 - [Introdução à Engenharia de Dados](#introdução-à-engenharia-de-dados)
 - [Sistemas operacionais e Virtualização](#sistemas-operacionais-e-virtualização)
+- [Virtualização e Contêineres](#virtualização-e-contêineres)
 
 ## Introdução à Engenharia de Dados
 
@@ -45,3 +46,13 @@ Nesta seção, você encontrará uma introdução à engenharia de dados, inclui
 
 [Acessar Sistemas operacionais e Virtualização](https://github.com/aureliowozhiak/curso-engenharia-de-dados/blob/main/02.Sistemas%20operacionais%20e%20Virtualiza%C3%A7%C3%A3o.md)
 
+## Virtualização e Contêineres
+
+ - Virtualização de servidores
+ - Contêineres
+ - Docker
+ - Docker Hub
+ - Dockerfile
+ - Docker Compose
+
+ [Acessar Virtualização e Contêineres](https://github.com/aureliowozhiak/curso-engenharia-de-dados/blob/main/)
