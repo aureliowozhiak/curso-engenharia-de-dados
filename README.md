@@ -2,7 +2,10 @@
 
 Este repositório contém materiais e recursos para o nosso curso de engenharia de dados de forma gratuita. Este curso abrange os conceitos e técnicas essenciais da engenharia de dados. Seja você iniciante ou experiente, adquira as habilidades necessárias para ter sucesso na indústria. Aprenda sobre bancos de dados, sistemas operacionais, processamento e armazenamento de dados, visualização, mineração, governança e segurança de dados, e tecnologias emergentes.
 
-Nota: os conteúdos aqui serão usados para gravação e produção de material para cursos na Udemy, porém esse repositório continuará aberto e gratuito.
+**Nota**: os conteúdos aqui serão usados para gravação e produção de outros materiais, porém esse repositório continuará aberto e gratuito.
+
+Links úteis:
+ - https://dataengineer.help/
 
 ## Conteúdo
 
