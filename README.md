@@ -10,6 +10,7 @@ Nota: os conteúdos aqui serão usados para gravação e produção de material 
 - [02.Sistemas operacionais e Virtualização](#02sistemas-operacionais-e-virtualização)
 - [03.Virtualização e Contêineres](#03virtualização-e-contêineres)
 - [04.Modelagem de dados](#04modelagem-de-dados)
+- [05.Bancos de dados relacionais](#05bancos-de-dados-relacionais)
 
 ## 01.Introdução à Engenharia de Dados
 
@@ -65,3 +66,12 @@ Nesta seção, você encontrará uma introdução à engenharia de dados, inclui
  - Técnicas de normalização e desnormalização
 
 [Acessar Modelagem de dados](https://github.com/aureliowozhiak/curso-engenharia-de-dados/blob/main/04.Modelagem%20de%20dados.md)
+
+## 05.Bancos de dados relacionais
+
+ - Principais bancos de dados relacionais
+ - Modelo relacional
+ - Álgebra relacional
+ - SQL
+
+[Acessar Bancos de dados relacionais](https://github.com/aureliowozhiak/curso-engenharia-de-dados/blob/main/05.Bancos%20de%20dados%20relacionais.md)
