@@ -7,6 +7,7 @@ Nota: os conteúdos aqui serão usados para gravação e produção de material 
 ## Conteúdo
 
 - [Introdução à Engenharia de Dados](#introdução-à-engenharia-de-dados)
+- [Sistemas operacionais e Virtualização](#sistemas-operacionais-e-virtualização)
 
 ## Introdução à Engenharia de Dados
 
@@ -25,3 +26,20 @@ Nesta seção, você encontrará uma introdução à engenharia de dados, inclui
     - Dados semi-estruturados
 
 [Acessar Introdução à Engenharia de Dados](https://github.com/aureliowozhiak/curso-engenharia-de-dados/blob/main/01.Introdu%C3%A7%C3%A3o%20%C3%A0%20Engenharia%20de%20Dados.md)
+
+## Sistemas operacionais e Virtualização
+
+ - Principais sistemas operacionais
+ - Arquitetura de sistemas operacionais
+ - Windows
+ - Linux e Unix
+ - Virtualização e Contêineres
+ - Prática: Instalando WSL no Windows
+ - Prática: Comandos básicos de Linux
+    - Comandos de navegação
+    - Comandos de manipulação de arquivos
+    - Comandos de manipulação de diretórios
+    - Comandos de manipulação de texto
+    - Comandos de manipulação de processos
+    - Comandos de manipulação de usuários
+
