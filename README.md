@@ -55,4 +55,4 @@ Nesta seção, você encontrará uma introdução à engenharia de dados, inclui
  - Dockerfile
  - Docker Compose
 
- [Acessar Virtualização e Contêineres](https://github.com/aureliowozhiak/curso-engenharia-de-dados/blob/main/)
+ [Acessar Virtualização e Contêineres](https://github.com/aureliowozhiak/curso-engenharia-de-dados/blob/main/03.Virtualiza%C3%A7%C3%A3o%20e%20Cont%C3%AAineres.md)
