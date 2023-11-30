@@ -6,11 +6,12 @@ Nota: os conteúdos aqui serão usados para gravação e produção de material 
 
 ## Conteúdo
 
-- [Introdução à Engenharia de Dados](#introdução-à-engenharia-de-dados)
-- [Sistemas operacionais e Virtualização](#sistemas-operacionais-e-virtualização)
-- [Virtualização e Contêineres](#virtualização-e-contêineres)
+- [01.Introdução à Engenharia de Dados](#01introdução-à-engenharia-de-dados)
+- [02.Sistemas operacionais e Virtualização](#02sistemas-operacionais-e-virtualização)
+- [03.Virtualização e Contêineres](#03virtualização-e-contêineres)
+- [04.Modelagem de dados](#04modelagem-de-dados)
 
-## Introdução à Engenharia de Dados
+## 01.Introdução à Engenharia de Dados
 
 Nesta seção, você encontrará uma introdução à engenharia de dados, incluindo definições, objetivos e papéis comuns na área.
 
@@ -28,7 +29,7 @@ Nesta seção, você encontrará uma introdução à engenharia de dados, inclui
 
 [Acessar Introdução à Engenharia de Dados](https://github.com/aureliowozhiak/curso-engenharia-de-dados/blob/main/01.Introdu%C3%A7%C3%A3o%20%C3%A0%20Engenharia%20de%20Dados.md)
 
-## Sistemas operacionais e Virtualização
+## 02.Sistemas operacionais e Virtualização
 
  - Principais sistemas operacionais
  - Arquitetura de sistemas operacionais
@@ -46,7 +47,7 @@ Nesta seção, você encontrará uma introdução à engenharia de dados, inclui
 
 [Acessar Sistemas operacionais e Virtualização](https://github.com/aureliowozhiak/curso-engenharia-de-dados/blob/main/02.Sistemas%20operacionais%20e%20Virtualiza%C3%A7%C3%A3o.md)
 
-## Virtualização e Contêineres
+## 03.Virtualização e Contêineres
 
  - Virtualização de servidores
  - Contêineres
@@ -56,3 +57,11 @@ Nesta seção, você encontrará uma introdução à engenharia de dados, inclui
  - Docker Compose
 
  [Acessar Virtualização e Contêineres](https://github.com/aureliowozhiak/curso-engenharia-de-dados/blob/main/03.Virtualiza%C3%A7%C3%A3o%20e%20Cont%C3%AAineres.md)
+
+## 04.Modelagem de dados
+
+ - Modelagem conceitual, lógica e física
+ - Tipos de modelos de dados (relacional, dimensional, hierárquico, etc.)
+ - Técnicas de normalização e desnormalização
+
+[Acessar Modelagem de dados](https://github.com/aureliowozhiak/curso-engenharia-de-dados/blob/main/04.Modelagem%20de%20dados.md)
