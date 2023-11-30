@@ -43,3 +43,5 @@ Nesta seção, você encontrará uma introdução à engenharia de dados, inclui
     - Comandos de manipulação de processos
     - Comandos de manipulação de usuários
 
+[Acessar Sistemas operacionais e Virtualização](https://github.com/aureliowozhiak/curso-engenharia-de-dados/blob/main/02.Sistemas%20operacionais%20e%20Virtualiza%C3%A7%C3%A3o.md)
+
