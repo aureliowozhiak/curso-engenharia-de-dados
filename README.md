@@ -24,4 +24,4 @@ Nesta seção, você encontrará uma introdução à engenharia de dados, inclui
     - Dados não estruturados
     - Dados semi-estruturados
 
-[Acessar Introdução à Engenharia de Dados]()
+[Acessar Introdução à Engenharia de Dados](https://github.com/aureliowozhiak/curso-engenharia-de-dados/blob/main/01.Introdu%C3%A7%C3%A3o%20%C3%A0%20Engenharia%20de%20Dados.md)
