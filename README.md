@@ -14,6 +14,7 @@ Links úteis:
 - [03.Virtualização e Contêineres](#03virtualização-e-contêineres)
 - [04.Modelagem de dados](#04modelagem-de-dados)
 - [05.Bancos de dados relacionais](#05bancos-de-dados-relacionais)
+- [06.Prática: SQL](#06prática-sql)
 
 ## 01.Introdução à Engenharia de Dados
 
@@ -78,3 +79,14 @@ Nesta seção, você encontrará uma introdução à engenharia de dados, inclui
  - SQL
 
 [Acessar Bancos de dados relacionais](https://github.com/aureliowozhiak/curso-engenharia-de-dados/blob/main/05.Bancos%20de%20dados%20relacionais.md)
+
+## 06.Prática: SQL
+ - Comandos básicos de SQL
+ - Comandos avançados de SQL
+ - Funções de agregação
+ - Subqueries
+ - Joins
+ - Stored procedures
+
+ [Acessar Prática: SQL]()
+
