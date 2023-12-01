@@ -15,6 +15,7 @@ Links úteis:
 - [04.Modelagem de dados](#04modelagem-de-dados)
 - [05.Bancos de dados relacionais](#05bancos-de-dados-relacionais)
 - [06.Prática: SQL](#06prática-sql)
+- [07.Arquitetura de dados](#07arquitetura-de-dados)
 
 ## 01.Introdução à Engenharia de Dados
 
@@ -90,3 +91,10 @@ Nesta seção, você encontrará uma introdução à engenharia de dados, inclui
 
  [Acessar Prática: SQL](https://github.com/aureliowozhiak/curso-engenharia-de-dados/blob/main/06.Pr%C3%A1tica%20SQL.md)
 
+
+## 07.Arquitetura de dados
+ - Arquitetura de dados tradicional
+ - Arquitetura de dados moderna (data lakes, data warehouses, etc.)
+ - Práticas recomendadas para a arquitetura de dados
+
+ [Acessar Arquitetura de dados](https://github.com/aureliowozhiak/curso-engenharia-de-dados/blob/main/07.Arquitetura%20de%20dados.md)
