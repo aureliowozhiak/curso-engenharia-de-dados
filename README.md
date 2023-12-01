@@ -98,3 +98,10 @@ Nesta seção, você encontrará uma introdução à engenharia de dados, inclui
  - Práticas recomendadas para a arquitetura de dados
 
  [Acessar Arquitetura de dados](https://github.com/aureliowozhiak/curso-engenharia-de-dados/blob/main/07.Arquitetura%20de%20dados.md)
+
+## 08.Processamento de dados
+ - Extração, transformação e carga (ETL)
+ - Processamento em tempo real e em lote
+ - Técnicas de processamento distribuído
+
+ [Acessar Processamento de dados](https://github.com/aureliowozhiak/curso-engenharia-de-dados/blob/main/08.Processamento%20de%20dados.md)
