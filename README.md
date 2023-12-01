@@ -88,5 +88,5 @@ Nesta seção, você encontrará uma introdução à engenharia de dados, inclui
  - Joins
  - Stored procedures
 
- [Acessar Prática: SQL]()
+ [Acessar Prática: SQL](https://github.com/aureliowozhiak/curso-engenharia-de-dados/blob/main/06.Pr%C3%A1tica%20SQL.md)
 
