@@ -111,3 +111,5 @@ Nesta seção, você encontrará uma introdução à engenharia de dados, inclui
  - WebScraping
  - APIs
  - Web Crawlers
+
+[Acessar Prática: Coletando dados da Internet](https://github.com/aureliowozhiak/curso-engenharia-de-dados/blob/main/09.Pr%C3%A1tica%20Coletando%20dados%20da%20Internet.md)
