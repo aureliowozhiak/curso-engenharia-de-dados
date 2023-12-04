@@ -16,6 +16,7 @@ Links úteis:
 - [05.Bancos de dados relacionais](#05bancos-de-dados-relacionais)
 - [06.Prática: SQL](#06prática-sql)
 - [07.Arquitetura de dados](#07arquitetura-de-dados)
+- [09.Prática: Coletando dados da Internet](#09prática-coletando-dados-da-internet)
 
 ## 01.Introdução à Engenharia de Dados
 
@@ -105,3 +106,8 @@ Nesta seção, você encontrará uma introdução à engenharia de dados, inclui
  - Técnicas de processamento distribuído
 
  [Acessar Processamento de dados](https://github.com/aureliowozhiak/curso-engenharia-de-dados/blob/main/08.Processamento%20de%20dados.md)
+
+## 09.Prática: Coletando dados da Internet
+ - WebScraping
+ - APIs
+ - Web Crawlers

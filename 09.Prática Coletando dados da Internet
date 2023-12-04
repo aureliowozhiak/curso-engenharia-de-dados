@@ -1,0 +1,23 @@
+#  Curso de Engenharia de Dados - Módulo 09: Prática Coletando dados da Internet
+
+Neste material de apoio, vamos explorar os conceitos e técnicas relacionados à coleta de dados da Internet, que são fundamentais para quem está estudando Engenharia de Dados. Abordaremos os seguintes temas:
+
+## Web Scraping
+
+O Web Scraping é uma técnica utilizada para extrair informações de páginas da web de forma automatizada. Com o Web Scraping, é possível coletar dados estruturados ou não estruturados de sites, como tabelas, listas, textos, imagens, entre outros. Essa técnica é amplamente utilizada na Engenharia de Dados para obter dados relevantes de fontes externas.
+
+Exemplo: Vamos utilizar a biblioteca BeautifulSoup em Python para extrair informações de um site de notícias e armazená-las em um arquivo CSV.
+
+## APIs
+
+As APIs (Application Programming Interfaces) são conjuntos de regras e protocolos que permitem a comunicação entre diferentes sistemas de software. Elas fornecem uma maneira estruturada e segura de acessar e manipular dados de serviços web. Na Engenharia de Dados, as APIs são frequentemente utilizadas para coletar dados de plataformas online, como redes sociais, serviços de streaming, bancos de dados, entre outros.
+
+Exemplo: Vamos utilizar a API do Twitter para coletar tweets relacionados a um determinado assunto e armazená-los em um banco de dados.
+
+## Web Crawlers
+
+Os Web Crawlers são programas automatizados que percorrem a web de forma sistemática, coletando informações de diferentes páginas. Eles são amplamente utilizados na Engenharia de Dados para coletar dados em larga escala, como informações de produtos em sites de comércio eletrônico, dados de pesquisa, entre outros. Os Web Crawlers podem ser configurados para seguir links, extrair dados específicos e armazená-los em um formato adequado para análise posterior.
+
+Exemplo: Vamos criar um Web Crawler em Python utilizando a biblioteca Scrapy para coletar informações de produtos em um site de comércio eletrônico.
+
+Esperamos que este material de apoio seja útil para você no estudo de Engenharia de Dados e na compreensão dos conceitos e técnicas de coleta de dados da Internet. Aproveite e mãos à obra!
