@@ -6,6 +6,7 @@ Este repositório contém materiais e recursos para o nosso curso de engenharia 
 
 Links úteis:
  - https://dataengineer.help/
+ - Quer ajudar a patrocinar esse projeto e ainda receber conteúdos únicos? Assine nossa turma https://buy.stripe.com/eVa15L0IUcD25jy146
 
 ## Conteúdo
 
