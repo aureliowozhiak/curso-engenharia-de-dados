@@ -18,6 +18,7 @@ Links úteis:
 - [06.Prática: SQL](#06prática-sql)
 - [07.Arquitetura de dados](#07arquitetura-de-dados)
 - [09.Prática: Coletando dados da Internet](#09prática-coletando-dados-da-internet)
+- [10.Airflow e Orquestração de Dados](#10airflow-e-orquestração-de-dados)
 
 ## 01.Introdução à Engenharia de Dados
 
@@ -114,3 +115,12 @@ Nesta seção, você encontrará uma introdução à engenharia de dados, inclui
  - Web Crawlers
 
 [Acessar Prática: Coletando dados da Internet](https://github.com/aureliowozhiak/curso-engenharia-de-dados/blob/main/09.Pr%C3%A1tica%20Coletando%20dados%20da%20Internet.md)
+
+## 10.Airflow e Orquestração de Dados
+- Conceitos básicos de orquestração de dados
+- Apache Airflow
+- Arquitetura do Airflow
+- Componentes do Airflow
+- Prática: Criando um pipeline de dados com Airflow
+
+[Acessar Airflow e Orquestração de Dados]
