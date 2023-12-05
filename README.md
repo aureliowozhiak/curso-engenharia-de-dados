@@ -19,6 +19,7 @@ Links úteis:
 - [07.Arquitetura de dados](#07arquitetura-de-dados)
 - [09.Prática: Coletando dados da Internet](#09prática-coletando-dados-da-internet)
 - [10.Airflow e Orquestração de Dados](#10airflow-e-orquestração-de-dados)
+- [11.Armazenamento de dados](#11armazenamento-de-dado)
 
 ## 01.Introdução à Engenharia de Dados
 
@@ -123,4 +124,10 @@ Nesta seção, você encontrará uma introdução à engenharia de dados, inclui
 - Componentes do Airflow
 - Prática: Criando um pipeline de dados com Airflow
 
-[Acessar Airflow e Orquestração de Dados]
+[Acessar Airflow e Orquestração de Dados](https://github.com/aureliowozhiak/curso-engenharia-de-dados/blob/main/10.Airflow%20e%20Orquestra%C3%A7%C3%A3o%20de%20Dados.md)
+
+## 11.Armazenamento de dados
+- Bancos de dados relacionais
+- Bancos de dados NoSQL
+- Armazenamento em nuvem
+[Acessar Armazenamento de dados](https://github.com/aureliowozhiak/curso-engenharia-de-dados/blob/main/11.Armazenamento%20de%20dados.md)
