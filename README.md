@@ -147,4 +147,4 @@ Nesta seção, você encontrará uma introdução à engenharia de dados, inclui
  - Aplicações da mineração de dados
  - Ética e privacidade na mineração de dados
 
- [Acessar Mineração de dados]()
+ [Acessar Mineração de dados](https://github.com/aureliowozhiak/curso-engenharia-de-dados/blob/main/13.Minera%C3%A7%C3%A3o%20de%20dados.md)
