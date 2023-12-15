@@ -20,6 +20,8 @@ Links úteis:
 - [09.Prática: Coletando dados da Internet](#09prática-coletando-dados-da-internet)
 - [10.Airflow e Orquestração de Dados](#10airflow-e-orquestração-de-dados)
 - [11.Armazenamento de dados](#11armazenamento-de-dado)
+- [12.Prática: Visualização de dados](#12prática-visualização-de-dados)
+- [13.Mineração de dados](#13mineração-de-dados)
 
 ## 01.Introdução à Engenharia de Dados
 
@@ -138,4 +140,11 @@ Nesta seção, você encontrará uma introdução à engenharia de dados, inclui
  - Técnicas de visualização de dados
  - Design de dashboards e relatórios
 
- [Acessar Prática: Visualização de dados]()
+ [Acessar Prática: Visualização de dados](https://github.com/aureliowozhiak/curso-engenharia-de-dados/blob/main/12.Pr%C3%A1tica%20Visualiza%C3%A7%C3%A3o%20de%20dados.md)
+
+ ## 13.Mineração de dados
+ - Principais técnicas de mineração de dados
+ - Aplicações da mineração de dados
+ - Ética e privacidade na mineração de dados
+
+ [Acessar Mineração de dados]()
