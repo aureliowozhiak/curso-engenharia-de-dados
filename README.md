@@ -130,4 +130,12 @@ Nesta seção, você encontrará uma introdução à engenharia de dados, inclui
 - Bancos de dados relacionais
 - Bancos de dados NoSQL
 - Armazenamento em nuvem
+
 [Acessar Armazenamento de dados](https://github.com/aureliowozhiak/curso-engenharia-de-dados/blob/main/11.Armazenamento%20de%20dados.md)
+
+## 12.Prática: Visualização de dados
+ - Ferramentas de visualização de dados
+ - Técnicas de visualização de dados
+ - Design de dashboards e relatórios
+
+ [Acessar Prática: Visualização de dados]()
